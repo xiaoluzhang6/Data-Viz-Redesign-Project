@@ -17,7 +17,7 @@ This figure allows the viewer to input key skills they are interested in and dis
 >This should not be a visualization to just map current popular job skills, but also potentially make a forecast for the future. For example, how long will cloud-computing be at the top? is it worth it to invest an education based around these skills? Would these skills still be relevant by the time I finish my degree? Should I think about updating my education? These are some type of questions my visualization will attemp to explore.
 
 -Scope:<br>
-> Limit to only United States and top 10 skills from year to year.
+> Limit to only United States and top 10 skills from 2014 to 2016.
 
 -Observe trend of the skills
 >Skills falling out of favor vs rising popularity of the skills<br>
